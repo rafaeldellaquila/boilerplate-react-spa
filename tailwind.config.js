@@ -6,6 +6,10 @@ module.exports = {
     './src/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
+    colors: {
+    },
+    fontFamily: {
+    },
     extend: {},
   },
   plugins: [],
